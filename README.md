@@ -1,3 +1,7 @@
 # Repo2440
-
-Santosh here, this is exciting work. Data Science rocks!!
+###This is a test repository
+* Data Science 101
+* R Language
+* Coding
+* Sharing Code
+ 
